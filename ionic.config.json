@@ -1,0 +1,7 @@
+{
+  "name": "A03AppTabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
